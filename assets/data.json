@@ -1,0 +1,103 @@
+{
+    "data2":[
+        {
+            "name" : "A",
+            "weight" : 18,
+            "price" : 25,
+            "per" : 0.0
+        },
+        {
+            "name" : "B",
+            "weight" : 15,
+            "price" : 24,
+            "per" : 0.0
+            
+        },
+        {
+            "name" : "C",
+            "weight" : 10,
+            "price" : 25,
+            "per" : 0.0
+        }
+    ],
+    "data3":[
+        {
+            "id" : 1,
+            "start" : 1,
+            "end" : 3
+        },
+        {
+            "id" : 2,
+            "start" : 3,
+            "end" : 4
+        },
+        {
+            "id" : 3,
+            "start" : 4,
+            "end" : 6
+        },
+        {
+            "id" : 4,
+            "start" : 2,
+            "end" : 8
+        },
+        {
+            "id" : 5,
+            "start" : 4,
+            "end" : 13
+        },
+        {
+            "id" : 6,
+            "start" : 6,
+            "end" : 10
+        },
+        {
+            "id" : 7,
+            "start" : 10,
+            "end" : 14
+        },
+        {
+            "id" : 8,
+            "start" : 12,
+            "end" : 15
+        },
+        {
+            "id" : 9,
+            "start" : 11,
+            "end" : 16
+        }
+    ],
+    "data12":[
+        {
+            "name" : "A",
+            "weight" : 18,
+            "price" : 25,
+            "per" : 0.0
+        },
+        {
+            "name" : "B",
+            "weight" : 15,
+            "price" : 24,
+            "per" : 0.0
+            
+        },
+        {
+            "name" : "C",
+            "weight" : 10,
+            "price" : 25,
+            "per" : 0.0
+        },
+        {
+            "name" : "D",
+            "weight" : 15,
+            "price" : 21,
+            "per" : 0.0
+        },
+        {
+            "name" : "E",
+            "weight" : 15,
+            "price" : 20,
+            "per" : 0.0
+        }
+    ]
+}
